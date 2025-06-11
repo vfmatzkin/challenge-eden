@@ -10,3 +10,7 @@ torchvision
 monai
 pillow
 opencv-python
+requests
+beautifulsoup4
+tqdm
+scikit-image
